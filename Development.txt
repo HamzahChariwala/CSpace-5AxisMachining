@@ -1,0 +1,13 @@
+SUGGESTIONS FOR IMPROVEMENT
+
+Introduce third spatial dimension 
+Implement intuitive way to group/order checkpoints
+Introduce roughing logic and combine with finishing C-Space
+Select start angles by extracting some geometric information
+Angle prioritisation based on proportion of points covered (greater speeds), and stiffness of machine/tool configuration
+Merge tool png generation file with main to allow for greater parametric freedom
+Group voxels to reduce computational expense, allowing for quicker runtime and greater resolution
+Explore any other ways to improve resolution
+EGO (or other) to select candidate angles to sample after initial run
+Implement multi-tool sampling for each angle
+Look into parallelising and/or optimisation for GPU operation
